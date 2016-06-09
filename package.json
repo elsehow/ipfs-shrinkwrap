@@ -1,10 +1,11 @@
 {
   "name": "ipfs-shrinkwrap",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
-  "main": "cmd.js",
+  "main": "cmd.sh",
   "bin": {
-    "ipfs-shrinkwrap": "cmd.js"
+    "ipfs-shrinkwrap": "cmd.sh",
+    "ipfs-shrinkwrap-js": "cmd.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
