@@ -1,0 +1,15 @@
+ipfs-shrinkwrap
+
+Make sure ipfs daemon is running.
+
+USAGE:
+
+  ipfs-shrinkwrap
+
+    This will add a field "ipfs-shrinkwrap" to your package.json.
+    Just re-run this command whenever your dependencies change, and you will re-shrinkwrap it.
+
+  ipfs-shrinkwrap install
+
+    If there is an ipfs-shrinkwrap field in your package.json,
+    this will install all this package's dependencies into node_modules/
