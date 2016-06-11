@@ -29,6 +29,25 @@ To install your dependencies from ipfs (rather than npm), just
 
 This will install all this package's dependencies into `node_modules/`
 
+## ipfs-shrinkwrap lifestyle
+
+Add a badge to your project!
+
+[![ipfs-shrinkwrap](https://ipfs.pics/ipfs/QmXV8a5eSGeKBCQjFzsMGyYmoYvshyX8SYBb9JCTEsr7gE)](https://github.com/elsehow/ipfs-shrinkwrap)
+
+```markdown
+[![ipfs-shrinkwrap](https://ipfs.pics/ipfs/QmXV8a5eSGeKBCQjFzsMGyYmoYvshyX8SYBb9JCTEsr7gE)](https://github.com/elsehow/ipfs-shrinkwrap)
+```
+Keep your shinkwrap up to date, automatically! Add ipfs-shrinkwrap to the prepublish hook in your package.json:
+
+```
+{ 
+  scripts: {
+    "prepublish": "ipfs-shrinkwrap"
+  }
+}
+```
+
 ## license
 
 BSD
