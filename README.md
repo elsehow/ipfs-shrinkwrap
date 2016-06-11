@@ -1,11 +1,13 @@
 # ipfs-shrinkwrap
 
+[![ipfs-shrinkwrap](https://github.com/elsehow/ipfs-shrinkwrap)](https://ipfs.pics/ipfs/QmXV8a5eSGeKBCQjFzsMGyYmoYvshyX8SYBb9JCTEsr7gE)
+
 Shrinkwrap your npm dependencies by backing them up to IPFS.
 
 ## install
 
     npm install -g ipfs-shrinkwrap
-    
+
 ## use
 
 First, run an [IPFS daemon](https://ipfs.io/).

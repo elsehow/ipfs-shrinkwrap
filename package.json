@@ -15,5 +15,6 @@
   "license": "ISC",
   "dependencies": {
     "minimist": "^1.2.0"
-  }
+  },
+  "ipfs-shrinkwrap": "QmSjkGR18QipV6xg6StHv5XXRtRAaAcT5DreSNMjePYHpv"
 }
