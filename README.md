@@ -1,6 +1,6 @@
 # ipfs-shrinkwrap
 
-[![ipfs-shrinkwrap](https://github.com/elsehow/ipfs-shrinkwrap)](https://ipfs.pics/ipfs/QmXV8a5eSGeKBCQjFzsMGyYmoYvshyX8SYBb9JCTEsr7gE)
+![[ipfs-shrinkwrap](https://github.com/elsehow/ipfs-shrinkwrap)](https://ipfs.pics/ipfs/QmXV8a5eSGeKBCQjFzsMGyYmoYvshyX8SYBb9JCTEsr7gE)
 
 Shrinkwrap your npm dependencies by backing them up to IPFS.
 
