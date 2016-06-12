@@ -4,6 +4,8 @@
 
 Shrinkwrap your npm dependencies by backing them up to IPFS.
 
+**WARNING** This is a WIP. Shrinkwrapped dependencies may contain information about your system, e.g. your path or other environment info. *Use at your own risk!*
+
 ## install
 
     npm install -g ipfs-shrinkwrap
