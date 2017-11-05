@@ -1,4 +1,4 @@
-#!/usr/local/bin/node
+#!/usr/bin/env node
 
 // This takes an argument -p to the path where the package.json is
 // Requires that ipfs daemon is running.
