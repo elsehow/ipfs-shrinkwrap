@@ -21,9 +21,9 @@ Make sure you have a `node_modules/` directory with all the deps you want to shi
     ipfs-shrinkwrap
 
 This will add a field "ipfs-shrinkwrap" to your `package.json`.
-Re-run this command whenever your dependencies change, and the the IPFS hash in `package.json` will be updated to point at the new dependencies.
+Re-run this command whenever your dependencies change, and the IPFS hash in `package.json` will be updated to point at the new dependencies.
 
-### Installing dependeices from IPFS
+### Installing dependencies from IPFS
 
 To install your dependencies from ipfs (rather than npm), just
 
